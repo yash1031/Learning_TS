@@ -16,14 +16,14 @@ type Username = string;
 type Age = number;
 type IsActive = boolean;
 
-// var name: Username = "Alice";
-// var age: Age = 25;
-// var active: IsActive = true;
+var name1: Username = "Alice";
+var age: Age = 25;
+var active: IsActive = true;
 
-// interface User {
-//     name: string;
-//     id: number;
-//   }
+interface User {
+    name1: string;
+    id: number;
+}
    
 //   const user: User = {
 //     username: "Hayes",
