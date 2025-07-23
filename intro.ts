@@ -33,3 +33,35 @@ interface User {
 //  let user= { name: "Yash", age: 25};
 //  console.log("Yash");
 //  console.log(user.email);
+//   const user: User = {
+//     username: "Hayes",
+//     id: 0,
+//   }
+
+//  let user= { name: "Yash", age: 25};
+//  console.log("Yash");
+//  console.log(user.email);
+//   const user: User = {
+//     username: "Hayes",
+//     id: 0,
+//   }
+
+//  let user= { name: "Yash", age: 25};
+//  console.log("Yash");
+//  console.log(user.email);
+//   const user: User = {
+//     username: "Hayes",
+//     id: 0,
+//   }
+
+//  let user= { name: "Yash", age: 25};
+//  console.log("Yash");
+//  console.log(user.email);
+//   const user: User = {
+//     username: "Hayes",
+//     id: 0,
+//   }
+
+//  let user= { name: "Yash", age: 25};
+//  console.log("Yash");
+//  console.log(user.email);
