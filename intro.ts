@@ -5,12 +5,12 @@ function logpoint1(p: string | number) {
 logpoint1("Ram");
 
 
-type WindowStates = string | Number;
-type LockStates = "locked" | "unlocked";
-type PositiveOddNumbersUnderTen = 1 | 3 | 5 | 7 | 9;
+// type WindowStates = string | Number;
+// type LockStates = "locked" | "unlocked";
+// type PositiveOddNumbersUnderTen = 1 | 3 | 5 | 7 | 9;
 
-var windowState: WindowStates= 1222222222222;
-console.log(windowState)
+// var windowState: WindowStates= 1222222222222;
+// console.log(windowState)
 
 // type Username = string;
 // type Age = number;
