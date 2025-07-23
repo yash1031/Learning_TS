@@ -1,8 +1,8 @@
-function logpoint1(p: string | number) {
+function logpoint11(p: string | number) {
     console.log(typeof p);
   }
 
-logpoint1("Ram");
+logpoint11("Ram");
 
 
 type WindowStates = string | Number;
@@ -24,7 +24,16 @@ interface User {
     name1: string;
     id: number;
 }
-   
+
+// var name1: Username = "Alice";
+// var age: Age = 25;
+// var active: IsActive = true;
+
+// interface User {
+//     name1: string;
+//     id: number;
+// }
+
 //   const user: User = {
 //     username: "Hayes",
 //     id: 0,
